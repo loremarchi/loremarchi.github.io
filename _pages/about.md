@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my professional portfolio. As a seasoned Quantitative Developer, I specialize in enhancing financial and risk models through advanced machine learning and data science techniques. With extensive experience in both the banking and insurance sectors, I develop innovative tools and models that significantly improve decision-making processes.
+
+My expertise is in applying predictive analytics to optimize pricing strategies and conduct comprehensive risk assessments. Currently, I serve as a Senior Pricing Analyst at AXA XL in Poland, where I lead cutting-edge projects that harness data to refine pricing models and evaluate risks with precision.
+
+My background uniquely combines academic knowledge with practical experience, enabling me to seamlessly integrate innovative data science approaches with quantitative methods to deliver substantial business value. Explore my portfolio to learn more about my work and the impact it has made in the financial industry.
 
 A data-driven personal website
 ======
